@@ -1,0 +1,18 @@
+{
+  "background_color": "grey",
+  "description": "Gestion de livraison",
+  "display":"standalone",
+  "orientation":"portrait",
+  "start_url":"https://livreur.logisticadeivery.com",
+  "scope":"\/",
+  "icons": [
+    {
+      "src": "../manifest/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Livreur Jibiat",
+  "short_name": "Livreur Jibiat",
+  "start_url": "livreurjibiat.site"
+}
